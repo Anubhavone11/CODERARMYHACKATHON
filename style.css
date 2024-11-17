@@ -208,6 +208,13 @@
     cursor: pointer;
     
 }
+.first-right img {
+     
+}
+ 
+        
+          
+     }
 .first-right{
     margin-top: 3rem;
         width: 40%;
@@ -743,6 +750,15 @@ form{
     
       
     }
+     .first-right{
+           height: 60vh;
+        
+     }
+ 
+     .first-right img {
+         margin-left: 2.4rem; 
+         width:80vw ;
+         height: 50vh;
  
      .first-right{
          margin-left: 2.4rem;
@@ -853,6 +869,9 @@ form{
 @media (max-width:1000px) {
     
     .first-container{
-        height: 170vh;
+        height: 110vh;
     }
+}
+.copy{
+    margin-top: .1rem;
 }
