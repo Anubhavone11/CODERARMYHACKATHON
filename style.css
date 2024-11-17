@@ -744,15 +744,7 @@ form{
     
       
     }
-     .first-right{
-           height: 60vh;
-        
-     }
- 
-     .first-right img {
-         margin-left: 2.4rem; 
-         width:80vw ;
-         height: 50vh;
+     
  
      .first-right{
          margin-left: 2.4rem;
@@ -863,7 +855,7 @@ form{
 @media (max-width:1000px) {
     
     .first-container{
-        height: ;
+        height:170vh ;
     }
 }
 .copy{
