@@ -857,13 +857,13 @@ form{
 }
 .copy{
      background-color: #818e88;
-     margin-top: .1rem;
+     margin-top: 1.6rem;
      padding: 5px;
 }
 @media (max-width:1000px) {
     
     .first-container{
-        height: 110vh;
+        height: 170vh;
     }
 }
 .copy{
